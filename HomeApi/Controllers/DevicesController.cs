@@ -45,7 +45,6 @@ namespace HomeApi.Controllers
             return StatusCode(200, resp);
         }
 
-        // TODO: Задание: напишите запрос на удаление устройства
         /// <summary>
         /// Удаление устройтва по id
         /// </summary>
